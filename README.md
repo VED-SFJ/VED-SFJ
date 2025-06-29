@@ -2,7 +2,7 @@
   <img src="https://github.com/Kite0007/Kite0007/blob/main/my-banner-circle.gif" alt="coding animation" width="300"/>
 </div>
 
-<h2 align="center">- OCIREJ -</h2>
+<h2 align="center"> 𝕺𝖈𝖎𝖗𝖊𝖏 </h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834424-10c56a80-a45f-11eb-8425-996911f09315.png" alt=""/>
   <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="VEDSFJ" />
