@@ -20,7 +20,7 @@
 • 👯 <b>I’m looking to collaborate on:</b> Web development projects, open-source tools, or innovative ideas.<br>
 • 🤝 <b>I’m looking for help with:</b> Improving website performance and learning advanced Python.<br>
 • 💬 <b>Ask me about:</b> Web Development, Databases (XAMPP, MongoDB), and DevOps basics.<br>
-• 📫 <b>How to reach me:</b> ocirej.dev@gmail.com<br>
+• 📫 <b>How to reach me:</b> contact.ocirej.dev@gmail.com<br>
 • ⚡ <b>Fun fact:</b> I think I’m funny, but my friends say my code is funnier! 😄
 </p>
 
