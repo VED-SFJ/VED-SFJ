@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=OCIREJ&label=Profile%20views&color=0e75b6&style=flat-square" alt="OCIREJ" />
 </p>
 <details align="center">
-  <summary><b> Click to expand 🔽</b></summary>
+  <summary><b> Click to expand ⬇️</b></summary>
 
  <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <p align="left">
