@@ -9,8 +9,7 @@
 </p>
 <details align="center">
   <summary><b> Click to expand 🔽</b></summary>
-  
-  <h3 align="center">A passionate frontend developer from the Philippines</h3>
+
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="kite0007" /> </p>
