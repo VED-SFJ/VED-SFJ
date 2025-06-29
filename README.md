@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://packaged-media.redd.it/fdfngtzwnxaa1/pb/m2-res_1080p.mp4?m=DASHPlaylist.mpd&v=1&e=1751205600&s=bf41f71229d64e736067e005d0fdcb7b80bb2883" alt="coding animation" width="600"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm OCIREJ</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
@@ -28,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kite0007&show_icons=true&locale=en&layout=compact" alt="kite0007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kite0007&show_icons=true&locale=en" alt="kite0007" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kite0007&show_icons=true&locale=en" alt="kite0007" /></p>
