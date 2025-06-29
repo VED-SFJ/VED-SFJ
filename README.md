@@ -5,12 +5,15 @@
 <h2 align="center">- OCIREJ -</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834424-10c56a80-a45f-11eb-8425-996911f09315.png" alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=OCIREJ&label=Profile%20views&color=0e75b6&style=flat-square" alt="OCIREJ" />
+  <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="VEDSFJ" />
 </p>
 <details align="center">
   <summary><b> Click to expand ⬇️</b></summary>
 
  <h3 align="center">A passionate frontend developer from the Philippines</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VEDSFJ" alt="VEDSFJ" /></a> </p>
+ 
 <p align="left">
 • 🔭 <b>I’m currently working on:</b> A promotional website to showcase my skills.<br>
 • 🌱 <b>I’m currently learning:</b> Python for automation, data analysis, and backend development.<br>
