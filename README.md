@@ -1,8 +1,16 @@
 <div align="center">
-  <img src="https://s4.ezgif.com/tmp/ezgif-4925d2786b60fd.gif" alt="coding animation" width="600"/>
+  <img src="https://github.com/Kite0007/Kite0007/blob/main/my-banner-circle.gif" alt="coding animation" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm OCIREJ</h1>
+<h1 align="center">OCIREJ</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834424-10c56a80-a45f-11eb-8425-996911f09315.png" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat-square" alt="kite0007" />
+</p>
+<details align="center">
+  <summary><b> Click to expand 🔽</b></summary>
+  
+  <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="kite0007" /> </p>
