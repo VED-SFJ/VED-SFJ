@@ -98,6 +98,6 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VEDSFJ&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="VEDSFJ Top Languages" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VEDSFJ&show_icons=true&locale=en&theme=github_dark" alt="VEDSFJ GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VEDSFJ&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="VEDSFJ Top Languages" height="90" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VEDSFJ&show_icons=true&locale=en&theme=github_dark" alt="VEDSFJ GitHub Stats" height="90" />
 </p>
