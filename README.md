@@ -12,7 +12,7 @@
 
  <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VEDSFJ" alt="VEDSFJ" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VEDSFJ" alt="VEDSFJ" /></a> </p>
  
 <p align="left">
 • 🔭 <b>I’m currently working on:</b> A promotional website to showcase my skills.<br>
@@ -97,8 +97,8 @@
 </p>
 <hr/>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VEDSFJ&show_icons=true&locale=en&layout=compact" alt="VEDSFJ" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEDSFJ&show_icons=true&locale=en" alt="VEDSFJ" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VEDSFJ&show_icons=true&locale=en&theme=github_dark" alt="VEDSFJ" height="180" />
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=VEDSFJ&show_icons=true&locale=en&theme=github_dark" alt="VEDSFJ" height="180" />
+</p>
