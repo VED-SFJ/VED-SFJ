@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=3000&width=310&height=60&lines=Yo%2C+what's+up!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div><br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1700&pause=1100&width=210&height=40&lines=Yo%2C+what's+up!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div><br>
 
 <div align="center">
   <img src="https://github.com/Kite0007/Kite0007/blob/main/my-banner-circle.gif" alt="coding animation" width="300"/>
