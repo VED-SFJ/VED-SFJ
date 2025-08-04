@@ -1,16 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1700&pause=1100&width=210&height=40&lines=Yo%2C+what's+up!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div><br>
+<br><br><br>
 
-<div align="center">
   <img src="https://github.com/Kite0007/Kite0007/blob/main/my-banner-circle.gif" alt="coding animation" width="300"/>
-</div>
 
 <h2 align="center"> 
-  <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&width=85&height=40&lines=%F0%9D%95%BA%F0%9D%96%88%F0%9D%96%8E%F0%9D%96%97%F0%9D%96%8A%F0%9D%96%8F" alt="Typing SVG" /></a>  
-  </div>
 </h2>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834424-10c56a80-a45f-11eb-8425-996911f09315.png" alt=""/>
