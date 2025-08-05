@@ -18,7 +18,7 @@
 
  <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VEDSFJ" alt="VEDSFJ" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VED-SFJ" alt="VED-SFJ" /></a> </p>
  
 <p align="left">
 • 🔭 <b>I’m currently working on:</b> A promotional website to showcase my skills.<br>
