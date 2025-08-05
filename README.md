@@ -111,7 +111,7 @@
 <hr/>
 
 <p align="center">
-  <table border="0" cellpadding="5">
+  <table align="center" border="0" cellpadding="5">
     <tr>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VED-SFJ&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="VED-SFJ Top Languages" height="180" />
