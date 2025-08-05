@@ -5,7 +5,7 @@
   <img src="https://github.com/Kite0007/Kite0007/blob/main/my-banner-circle.gif" alt="coding animation" width="300"/>
 
 <h2 align="center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&width=85&height=40&lines=%F0%9D%95%BA%F0%9D%96%88%F0%9D%96%8E%F0%9D%96%97%F0%9D%96%8A%F0%9D%96%8F" alt="Typing SVG" /></a>  
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=95&height=80&lines=%F0%9D%95%BA%F0%9D%96%88%F0%9D%96%8E%F0%9D%96%97%F0%9D%96%8A%F0%9D%96%8F" alt="Typing SVG" /></a>
 </h2>
 </div>
 
