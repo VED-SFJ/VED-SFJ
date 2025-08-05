@@ -32,15 +32,22 @@
 
 ---
 
-
 ### 📬 Connect with me:
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="25" width="25" /></a>    
-  <a href="YOUR_TWITTER_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="25" width="25" /></a>    
-  <a href="YOUR_FACEBOOK_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook" height="25" width="25" /></a>    
-  <a href="YOUR_INSTAGRAM_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="25" width="25" /></a>    
-</div><br><br>
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Your LinkedIn"/>
+  </a>
+  <a href="YOUR_TWITTER_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Your Twitter"/>
+  </a>
+  <a href="YOUR_FACEBOOK_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Your Facebook"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Your Instagram"/>
+  </a>
+</div>
 
 ---
 
@@ -104,13 +111,13 @@
 <hr/>
 
 <p align="center">
-  <table lign="center" border="0">
-    <tr border="0">
-      <td align="center" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VEDSFJ&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="VEDSFJ Top Languages" height="180" />
+  <table border="0" cellpadding="5">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VED-SFJ&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="VED-SFJ Top Languages" height="180" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VEDSFJ&show_icons=true&locale=en&theme=github_dark" alt="VEDSFJ GitHub Stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=VED-SFJ&show_icons=true&locale=en&theme=github_dark" alt="VED-SFJ GitHub Stats" height="165" />
       </td>
     </tr>
   </table>
