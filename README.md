@@ -27,7 +27,7 @@
 • 🤝 <b>Looking for tips on:</b> performance tuning & leveling up my Python game.<br>
 • 💬 <b>Ask me about:</b> Web dev, databases (MongoDB's my jam), and the DevOps basics.<br>
 • 📫 <b>Hit me up:</b> contact.ocirej.dev@gmail.com<br>
-• ⚡ <b>Fun fact:</b> My code's 90% Stack Overflow... the other 10% is the bug I introduced while pasting it.
+• ⚡ <b>Fun fact:</b> My code is 90% Stack Overflow... the other 10% is the bug I introduced while pasting it.
 </p>
 
 ---
