@@ -18,9 +18,9 @@
 
  <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
- <p align="center"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VED-SFJ&theme=onedark&no-frame=true&no-bg=true&column=4" alt="VED-SFJ" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VED-SFJ&theme=matrix&no-frame=true&no-bg=true&column=4" alt="VED-SFJ" />
   </a> 
 </p>
 
