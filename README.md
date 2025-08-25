@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834424-10c56a80-a45f-11eb-8425-996911f09315.png" alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="VEDSFJ" />
+  <img src="https://komarev.com/ghpvc/?username=kite0007&label=Profile%20views&color=0e75b6&style=flat" alt="VED-SFJ" />
 </p>
 <details align="center">
   <summary><b> Click to expand ⬇️</b></summary>
