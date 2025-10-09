@@ -20,9 +20,11 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VED-SFJ&no-bg=true" alt="VED-SFJ's GitHub trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VED-SFJ" alt="VED-SFJ's GitHub trophy" style="width: 70%; max-width: 600px;" />
   </a>
-</div><br>
+</div>
+
+<br>
 
 <p align="left">
 • 🔭 <b>Currently grinding on:</b> our capstone project—a full-scale booking & reservation system for a private resort, hitting web, mobile, and desktop platforms.<br>
