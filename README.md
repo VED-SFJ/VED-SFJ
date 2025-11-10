@@ -33,7 +33,7 @@
 • 🤝 <b>Seeking guidance on:</b> Application performance optimization and advanced Python architectural patterns.<br>
 • 💬 <b>Ask me about:</b> Full-stack web development, RESTful API design, database architecture (MongoDB/MySQL), and fundamental DevOps practices.<br>
 • 📫 <b>How to reach me:</b> <a href="mailto:contact.ocirej.dev@gmail.com">contact.ocirej.dev@gmail.com</a><br>
-• ⚡ <b>Fun fact:</b> I believe the best code is a blend of proven solutions and the creative spark needed to solve unique problems.
+• ⚡ <b>Fun fact:</b> I believe the best code is a blend of proven solutions and the creative spark needed to solve unique problems
 </p>
 
 ---
